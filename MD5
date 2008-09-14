@@ -1,0 +1,6 @@
+3cded669a7f6d252eb2afbf65d98082e *DESCRIPTION
+a1c4c49da0eb38f22ec14cc9f9dcf447 *NAMESPACE
+9cd93200be612e8015a3f5c3d834b9d0 *R/extract.val.R
+f6cf0a0c1be4d68777fbfcc519f4352a *R/latlon2idx.R
+e787b019398ecf4c600661bd05a40634 *man/extract.val.Rd
+dd5a944d80dc656c0676cebefda30c92 *man/latlon2idx.Rd
