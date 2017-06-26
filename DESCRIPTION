@@ -4,8 +4,8 @@ Title: Provides tools for quality checks of georeferenced plant species
         accessions.
 Version: 1.0.0
 Date: 2008-09-14
-Author: Reinhard Simon
-Maintainer: Reinhard Simon <r.simon@cgiar.org>
+Author: Reinhard Simon <rsimon64@gmail.com>
+Maintainer: Ivan Perez <i.perez@cgiar.org>
 Description: Provides tools for quality checks of georeferenced plant
         species accessions.
 License: GPL (>= 2)
